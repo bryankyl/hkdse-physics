@@ -78,5 +78,9 @@
 
 ## Past Paper Solution
 
-* [1.01](past-paper-solution/1.01.md)
+* [1 Heat & Gases](past-paper-solution/1.01/README.md)
+  * [1.01 Temperature and Thermometers](past-paper-solution/1.01/1.01-temperature-and-thermometers.md)
+  * [1.02 Heat and Internal Energy](past-paper-solution/1.01/1.02-heat-and-internal-energy.md)
+  * [1.03 Change of State](past-paper-solution/1.01/1.03-change-of-state.md)
+  * [1.04 Heat Transfer Processes](past-paper-solution/1.01/1.04-heat-transfer-processes.md)
 
