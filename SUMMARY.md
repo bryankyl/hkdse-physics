@@ -48,7 +48,7 @@
   * [2.01 Motion I](brief-notes/mechanics/2.01-motion-i.md)
 * [3 Optics and Waves](brief-notes/waves/README.md)
   * [3.01 Reflection of Light](brief-notes/waves/3.01-reflection-of-light/README.md)
-    * [Untitled](brief-notes/waves/3.01-reflection-of-light/untitled.md)
+    * [01 Basics of Light](brief-notes/waves/3.01-reflection-of-light/untitled.md)
   * [3.02 Refraction of Light](brief-notes/waves/3.02-refraction-of-light.md)
   * [3.03 Lenses](brief-notes/waves/3.03-lenses.md)
   * [3.04 Nature of Waves](brief-notes/waves/3.04-nature-of-waves.md)
