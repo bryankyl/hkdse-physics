@@ -5,11 +5,13 @@ Absolute zero \($$-273\degree\text{C}$$\) is regarded as the beginning point of 
 
 In Physics, we use Kelvin temperature \(instead of Celsius temperature\) in calculation involving gases, which
 
+$$
+\text{K} = \degree\text{C}+273
+$$
 
+At absolute zero:
 
->
-
-$$\text{K}=\degree\text{C}+273$$ 
-
-3
+* The speed and average kinetic energy of gas molecules are assume to be zero.
+* The gas is assumed to take up zero volume
+* The gas is assumed to have zero gas pressure.
 
