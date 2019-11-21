@@ -12,8 +12,8 @@ Volume of 1 mole of gas is fixed at certain criteria
 
 | Temperature | Pressure | Volume |
 | :--- | :--- | :--- |
-| Standard Temperature \($$0 \degree\text{C}$$\) | 1 atm | $$22.4\text{ dm}^3=0.0224\text{ m}^3$$  |
-| Room Temperature \($$25 \degree\text{C}$$\) | 1 atm | $$24.0\text{ dm}^3=0.0240\text{ m}^3$$  |
+| Standard Temperature \($$0 \degree\text{C}$$ or $$273\text{ K}$$ \) | 1 atm | $$22.4\text{ dm}^3=0.0224\text{ m}^3$$  |
+| Room Temperature \($$25 \degree\text{C}$$ or $$298\text{ K}$$ \) | 1 atm | $$24.0\text{ dm}^3=0.0240\text{ m}^3$$  |
 
 Charles' law \(Thermal Expansion\): Gas expands when temperature increases, and shrinks when temperature drops.  
 At extremely low temperature, the volume shrinks to become "zero" \(but actually it cannot happen\). The temperature is called "absolute zero" \($$-273.15\degree\text{C}$$\).
