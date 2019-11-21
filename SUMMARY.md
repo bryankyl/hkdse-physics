@@ -31,7 +31,7 @@
     * [01 Physical Quantities about Gases](brief-notes/1/05/01.md)
     * [02 Volume](brief-notes/1/05/02-volume.md)
     * [03 Temperature](brief-notes/1/05/03-temperature.md)
-    * [04 Pressure](brief-notes/1/05/04-pressure.md)
+    * [04 Pressure](brief-notes/1/05/04.md)
     * [05 Boyle's Law](brief-notes/1/05/05-boyles-law.md)
     * [06 Charles' Law](brief-notes/1/05/06-charles-law.md)
     * [07 Pressure Law](brief-notes/1/05/07-pressure-law.md)
