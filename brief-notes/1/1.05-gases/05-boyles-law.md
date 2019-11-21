@@ -23,8 +23,10 @@ In $$P\text{-}\frac{1}{V}$$ graph \(Figure \(b\)\), the slope of the linear grap
 
 #### Experiment Sources of Errors
 
-| Sources of Error | Ways of Improvement |
+| Source of Error | Way to Improve |
 | :--- | :--- |
-| The tube of the rubber tubing | use a shorter tube |
-| Pushing of piston can  | use a  |
+| There is gas in the rubber tubing which is not measured by the syringe. | use a shorter tube to reduce the volume of gas in the tubing. |
+| Pushing of piston can accelerate the gas molecules and increase the temperature. | Push the piston as slow as possible. |
+| When the syringe is held by hand, the body temperature can increase the temperature of gas. | Do not hold the syringe with hand. |
+| Gas may leak between the syringe and the piston. | Make sure the syringe and piston are air-tight. |
 

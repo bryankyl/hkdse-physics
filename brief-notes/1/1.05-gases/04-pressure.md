@@ -9,8 +9,16 @@ $$
 \text{pressure}=\frac{\text{force exerted on the surface}}{\text{contact area}}
 $$
 
+### Use of Pressure in Daily Life
+
+There are sharp edges in knives.  
+There are sharp heads in arrows.  
+It can reduce the contact area and raise the pressure by using the same amount of force.
+
+### Gas Pressure
+
 Gas molecules are moving randomly inside a container.  
-They exert a force at the moment when colliding with the surface of the container.  
+They exert a force at the moment when hitting with the surface of the container.  
 Gas Pressure:
 
 $$
