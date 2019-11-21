@@ -9,6 +9,8 @@ $$
 \text{K} = \degree\text{C}+273
 $$
 
+The unit of temperature is kelvin \($$\text{K}$$\).
+
 At absolute zero:
 
 * The speed and average kinetic energy of gas molecules are assume to be zero.

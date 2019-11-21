@@ -1,7 +1,7 @@
 # 02 Volume
 
 Volume is used to represent to quantity of the space which the gas takes up.  
-The unit of Volume is $$\text{m}^3$$.
+The unit of volume is cubic metre \($$\text{m}^3$$\).
 
 | Unit of Volume | Equivalent to |
 | :--- | :--- |
