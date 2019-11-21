@@ -2,5 +2,5 @@
 
 ### Definition of Charles' Law
 
-Volume of gas is directly proportional to the temperature of the gas.
+Volume $$V$$ of a gas is directly proportional to the temperature $$T$$ of the gas. 
 

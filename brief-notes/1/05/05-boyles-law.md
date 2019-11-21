@@ -2,7 +2,7 @@
 
 ### Definition of Boyle's Law:
 
-Gas pressure $$P$$ is inversely proportional to the volume $$V$$ of the gas.
+Gas pressure $$P$$ is inversely proportional to the volume $$V$$ of the gas, which the temperature $$T$$ is kept constant.
 
 $$
 P\propto\frac{1}{V}\:\:\:\text{or}\:\:\: PV=\text{constant}
