@@ -1,7 +1,7 @@
 # 04 Pressure
 
 Pressure is defined as the force exerted on per unit area of the surface  
-The unit of pressure is pascal \($$\text{Pa}$$\).
+The unit of pressure is pascal \($$\text{Pa}$$\) or Newton per squared metre \($$\text{N m}^{-2}$$\).
 
 $$
 \text{pressure}=\frac{\text{force exerted on the surface}}{\text{contact area}}
