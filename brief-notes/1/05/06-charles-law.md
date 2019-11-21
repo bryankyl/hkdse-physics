@@ -19,4 +19,12 @@ In $$V\text{-}T$$ graph, the slope of the straight line is $$\frac{nR}{P}$$. Whe
 
 1. Heat up the water bath by Bunsen burner.
 2. Record the 
-3. 
+
+#### Sources of Error in Experiment
+
+| Source of Error | Way to improve |
+| :--- | :--- |
+|  |  |
+
+
+

@@ -21,7 +21,7 @@ In $$P\text{-}\frac{1}{V}$$ graph \(Figure \(b\)\), the slope of the straight li
 2. Push the piston slowly, repeat step 1 for about 5-8 different values of pressure and volume.
 3. Plot the $$P\text{-}V$$ or $$P\text{-}\frac{1}{V}$$ graph from the data collected in steps 1-2.
 
-#### Experiment Sources of Errors
+#### Sources of Error in Experiment
 
 | Source of Error | Way to Improve |
 | :--- | :--- |
