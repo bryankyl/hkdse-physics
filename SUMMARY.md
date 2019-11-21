@@ -37,7 +37,7 @@
     * [07 Pressure Law](brief-notes/heat/1.05-gases/07-pressure-law.md)
     * [08 Ideal Gas law](brief-notes/heat/1.05-gases/08-ideal-gas-law.md)
     * [09 Mixing Gases in Two Vessels](brief-notes/heat/1.05-gases/09-mixing-gases-in-two-vessels.md)
-    * [10 Microscopic View of Gases](brief-notes/heat/1.05-gases/09-microscopic-view-of-gases.md)
+    * [10 Macroscopic View and Microscopic View of Gases](brief-notes/heat/1.05-gases/09-microscopic-view-of-gases.md)
     * [11 Kinetic Theory and Brownian Motion](brief-notes/heat/1.05-gases/11-kinetic-theory.md)
     * [12 Kinetic Theory Model](brief-notes/heat/1.05-gases/12-kinetic-theory-model.md)
     * [13 Definition of Ideal Gas](brief-notes/heat/1.05-gases/10-definition-of-ideal-gas.md)

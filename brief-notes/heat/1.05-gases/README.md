@@ -6,7 +6,7 @@ Some common physical quantities
 | :--- | :--- |
 | Temperature | K |
 | Pressure | Pa |
-| Volume | $$m^3$$ |
+| Volume | $$\text{m}^3$$ |
 | Number of Moles | mol |
 
 
