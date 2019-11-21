@@ -11,5 +11,5 @@ $$
 
 ![](../../../.gitbook/assets/image%20%284%29.png)
 
-In $$V\text{-}T$$ graph, the slope of the straight line is $$\frac{nR}{P}$$. When pressure $$P$$ increases, the slope of the straight line decreases.
+
 
