@@ -1,2 +1,29 @@
-# 10 Definition of Ideal Gas
+# 13 Definition of Ideal Gas
 
+Comparison between Ideal Gases and Real Gases
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Properties</th>
+      <th style="text-align:left">Ideal Gases</th>
+      <th style="text-align:left">Real Gases</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">Molecules</td>
+      <td style="text-align:left">
+        <p>All molecules are identical</p>
+        <p>All molecules are of same mass.</p>
+      </td>
+      <td style="text-align:left">There are isotopes in real gases.
+        <br />(different mass)</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+  </tbody>
+</table>

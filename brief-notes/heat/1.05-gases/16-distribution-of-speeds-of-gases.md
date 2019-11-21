@@ -1,2 +1,2 @@
-# 16 Distribution of Speeds of Gases
+# 17 Distribution of Speeds of Gases
 

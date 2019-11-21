@@ -1,2 +1,2 @@
-# 11 Kinetic Theory
+# 11 Kinetic Theory and Brownian Motion
 
