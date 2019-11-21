@@ -17,5 +17,14 @@ In $$P\text{-}\frac{1}{V}$$ graph \(Figure \(b\)\), the slope of the linear grap
 
 ![](../../../.gitbook/assets/image%20%287%29.png)
 
+1. At initial state, record the values of pressure $$P$$ and volume $$V$$.
+2. Push the piston slowly, repeat step 1 for about 5-8 different values of pressure and volume.
+3. Plot the $$P\text{-}V$$ or $$P\text{-}\frac{1}{V}$$ graph from the data collected in steps 1-2.
 
+#### Experiment Sources of Errors
+
+| Sources of Error | Ways of Improvement |
+| :--- | :--- |
+| the tube | use a shorter tube |
+| Pushing of piston can  | use a  |
 
