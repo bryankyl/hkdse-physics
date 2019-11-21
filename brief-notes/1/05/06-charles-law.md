@@ -17,8 +17,10 @@ In $$V\text{-}T$$ graph, the slope of the straight line is $$\frac{nR}{P}$$. Whe
 
 ![](../../../.gitbook/assets/image%20%289%29.png)
 
-1. Heat up the water bath by Bunsen burner.
-2. Record the 
+1. Water bath is heated up by the Bunsen burner.
+2. Remove the Bunsen burner.
+3. Stir the water well
+4. Record the 
 
 #### Sources of Error in Experiment
 
