@@ -10,7 +10,7 @@ The unit of volume is cubic metre \($$\text{m}^3$$\).
 | $$\text{dm}^3$$  | $$1\text{ m}^3=1,000\text{ dm}^3$$  |
 | $$\text{cm}^3$$  | $$1\text{ m}^3 = 1,000,000\text{ cm}^3$$  |
 
-Volume of 1 mole of gas is fixed at certain criteria
+Volume of **1 mole of gas** is fixed at certain criteria:
 
 | Temperature | Pressure | Volume |
 | :--- | :--- | :--- |
