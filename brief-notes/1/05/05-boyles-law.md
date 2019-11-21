@@ -25,8 +25,8 @@ In $$P\text{-}\frac{1}{V}$$ graph \(Figure \(b\)\), the slope of the linear grap
 
 | Source of Error | Way to Improve |
 | :--- | :--- |
-| There is gas in the rubber tubing which is not measured by the syringe. | use a shorter tube to reduce the volume of gas in the tubing. |
-| Pushing of piston can accelerate the gas molecules and increase the temperature. | Push the piston as slow as possible. |
-| When the syringe is held by hand, the body temperature can increase the temperature of gas. | Do not hold the syringe with hand. |
+| There is space inside the rubber tubing which causes error in measurement of volume. | Use a shorter rubber tubing. |
+| Pushing of piston quickly may accelerate the gas molecules and increase the temperature. | Push the piston as slow as possible. |
+| When the syringe is held by hand, the body temperature may increase the temperature of gas. | Do not hold the syringe with hand. |
 | Gas may leak between the syringe and the piston. | Make sure the syringe and piston are air-tight. |
 
