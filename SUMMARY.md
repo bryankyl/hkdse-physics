@@ -105,6 +105,8 @@
     * [04 High Voltage Transmission of Electricity](brief-notes/4-electricity-and-magnetism/4.06-high-voltage-transmission/04-high-voltage-transmission-of-electricity.md)
 * [5 Atomic Physics](brief-notes/5-atomic-physics.md)
 * [E1 Astronomy and Space Science](brief-notes/e1-astronomy-and-space-science-1.md)
+* [E2 Atomic World](brief-notes/e2-atomic-world/README.md)
+  * [E2.03 Nanoscale](brief-notes/e2-atomic-world/e2.03-nanoscale.md)
 * [E3 Energy and Use of Energy](brief-notes/e3-energy-and-use-of-energy.md)
 
 ## Past Paper Solution
