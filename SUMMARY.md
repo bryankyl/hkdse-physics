@@ -12,7 +12,6 @@
     * [04 Other Types of Thermometers](brief-notes/1/1.01/04-other-types-of-thermometers.md)
     * [Useful Formulae](brief-notes/1/1.01/formulae.md)
     * [Frequently Asked Questions](brief-notes/1/1.01/frequently-asked-questions.md)
-    * [Untitled](brief-notes/1/1.01/untitled.md)
   * [1.02 Heat and Internal Energy](brief-notes/1/1.02-heat-and-internal-energy/README.md)
     * [01 Definition of Internal Energy](brief-notes/1/1.02-heat-and-internal-energy/01-definition-of-internal-energy.md)
     * [02 Definition of Heat](brief-notes/1/1.02-heat-and-internal-energy/02-definition-of-gas.md)
