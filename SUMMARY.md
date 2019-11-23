@@ -38,7 +38,7 @@
     * [09 Ideal Gas law](brief-notes/1/05/09.md)
     * [10 Mixing Gases in Two Vessels](brief-notes/1/05/10.md)
     * [11 Macroscopic View and Microscopic View of Gases](brief-notes/1/05/11.md)
-    * [11 Kinetic Theory and Brownian Motion](brief-notes/1/05/11-kinetic-theory.md)
+    * [12 Kinetic Theory and Brownian Motion](brief-notes/1/05/12.md)
     * [12 Kinetic Theory Model](brief-notes/1/05/12-kinetic-theory-model.md)
     * [13 Definition of Ideal Gas](brief-notes/1/05/10-definition-of-ideal-gas.md)
     * [14 Kinetic Theory Equations](brief-notes/1/05/13-kinetic-theory-equations.md)
