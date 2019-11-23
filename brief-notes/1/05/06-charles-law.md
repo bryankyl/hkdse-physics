@@ -21,7 +21,8 @@ In $$V\text{-}T$$ graph, the slope of the straight line is $$\frac{nR}{P}$$. Whe
 2. Remove the Bunsen burner.
 3. Stir the water well until the temperature is even.
 4. Record the height of the gas column.
-5. Heat up the water bath again.
+5. Repeat step 1-4 again for different values of temperature and height of gas column.
+6. Plot the $$h\text{-}T$$ or $$V\text{-}T$$ graph 
 
 #### Sources of Error in Experiment
 
