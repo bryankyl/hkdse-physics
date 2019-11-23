@@ -15,7 +15,7 @@ In $$V\text{-}T$$ graph, the slope of the straight line is $$\frac{nR}{P}$$. Whe
 
 ### Experiment of Charles' Law
 
-![](../../../.gitbook/assets/image%20%2810%29.png)
+![](../../../.gitbook/assets/image%20%2811%29.png)
 
 1. Water bath is heated up by the Bunsen burner.
 2. Remove the Bunsen burner.
