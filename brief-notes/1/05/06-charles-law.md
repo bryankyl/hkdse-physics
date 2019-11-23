@@ -21,13 +21,15 @@ In $$V\text{-}T$$ graph, the slope of the straight line is $$\frac{nR}{P}$$. Whe
 2. Remove the Bunsen burner.
 3. Stir the water well until the temperature is even.
 4. Record the height of the gas column $$h$$ and temperature $$T$$ \(thermometer\).
-5. Repeat step 1-4 again for different values of height of gas column $$h$$ and temperature $$T$$ .
+5. Repeat step 1-4 again for different values of height $$h$$ and temperature $$T$$ .
 6. Plot the $$h\text{-}T$$ or $$V\text{-}T$$ graph from the data collected in steps 1-5.
 
 #### Sources of Error in Experiment
 
 | Source of Error | Way to improve |
 | :--- | :--- |
+| The pressure | open end atmospheric pressure |
+| air tight |  |
 |  |  |
 
 
