@@ -8,13 +8,15 @@ $$
 \frac{P}{T}=\text{constant}
 $$
 
-![](../../../.gitbook/assets/image%20%288%29.png)
+![](../../../.gitbook/assets/image%20%289%29.png)
 
-![](../../../.gitbook/assets/image%20%285%29.png)
+![](../../../.gitbook/assets/image%20%286%29.png)
 
 In $$P\text{-}T$$ graph, the slope of the straight line is $$\frac{nR}{V}$$. When volume $$V$$ increases, the slope of the straight line decreases.
 
 ### Experiment of Pressure Law
 
-d
+![](../../../.gitbook/assets/image%20%281%29.png)
+
+
 

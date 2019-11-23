@@ -9,19 +9,19 @@ $$
 \frac{V}{T}=\text{constant}
 $$
 
-![](../../../.gitbook/assets/image%20%284%29.png)
+![](../../../.gitbook/assets/image%20%285%29.png)
 
 In $$V\text{-}T$$ graph, the slope of the straight line is $$\frac{nR}{P}$$. When pressure $$P$$ increases, the slope of the straight line decreases.
 
 ### Experiment of Charles' Law
 
-![](../../../.gitbook/assets/image%20%2811%29.png)
+![](../../../.gitbook/assets/image%20%2812%29.png)
 
 1. Water bath is heated up by the Bunsen burner.
 2. Remove the Bunsen burner.
 3. Stir the water well until the temperature is even.
-4. Record the height of the gas column.
-5. Repeat step 1-4 again for different values of temperature and height of gas column.
+4. Record the height of the gas column $$h$$ and temperature $$T$$ \(thermometer\).
+5. Repeat step 1-4 again for different values of height of gas column $$h$$ and temperature $$T$$ .
 6. Plot the $$h\text{-}T$$ or $$V\text{-}T$$ graph from the data collected in steps 1-5.
 
 #### Sources of Error in Experiment
