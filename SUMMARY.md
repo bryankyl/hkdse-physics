@@ -107,7 +107,12 @@
 * [E1 Astronomy and Space Science](brief-notes/e1-astronomy-and-space-science-1.md)
 * [E2 Atomic World](brief-notes/e2-atomic-world/README.md)
   * [E2.03 Nanoscale](brief-notes/e2-atomic-world/e2.03-nanoscale.md)
-* [E3 Energy and Use of Energy](brief-notes/e3-energy-and-use-of-energy.md)
+* [E3 Energy and Use of Energy](brief-notes/e3-energy-and-use-of-energy/README.md)
+  * [End-use Efficiency](brief-notes/e3-energy-and-use-of-energy/end-use-efficiency.md)
+  * [Overall Efficiency](brief-notes/e3-energy-and-use-of-energy/overall-efficiency.md)
+  * [Electric Hotplate](brief-notes/e3-energy-and-use-of-energy/electric-hotplate.md)
+  * [Induction Cooker](brief-notes/e3-energy-and-use-of-energy/induction-cooker.md)
+* [E4 Medical Physics](brief-notes/e4-medical-physics.md)
 
 ## Past Paper Solution
 
