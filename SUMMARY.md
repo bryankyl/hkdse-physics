@@ -145,5 +145,12 @@
 * [5 Atomic Physics](past-paper-solution/5-atomic-physics.md)
 * [E1 Astronomy and Space Science](past-paper-solution/e1-astronomy-and-space-science.md)
 * [E3 Energy and Use of Energy](past-paper-solution/e3-energy-and-use-of-energy.md)
-* [Timeline of Physics Development](timeline-of-physics-development.md)
+
+## Other Contents
+
+* [Timeline of Physics Development](other-contents/timeline-of-physics-development.md)
+
+## Learning Resources
+
+* [Past Paper \(Sorted by Year\)](learning-resources/past-paper-sorted-by-year.md)
 
