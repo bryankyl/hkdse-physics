@@ -152,5 +152,5 @@
 
 ## Learning Resources
 
-* [Past Paper \(Sorted by Year\)](learning-resources/past-paper-sorted-by-year.md)
+* [HKDSE Past Paper \(Sorted by Year\)](learning-resources/past-paper-sorted-by-year.md)
 
