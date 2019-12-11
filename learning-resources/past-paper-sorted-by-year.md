@@ -1,8 +1,8 @@
 # HKDSE Past Paper \(Sorted by Year\)
 
-| Year | P1A | P1B | P2 | Marking | Joint-us 1A | Joint-us 1B | Joint-us 2 | Cand. Perf. | Teacher's Briefing |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-|  |  |  |  |  |  |  |  |  |  |
+| P1A | P1B | P2 | Marking | Joint-us 1A | Joint-us 1B | Joint-us 2 | Cand. Perf. | Teacher's Briefing |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| [Paper 1A](https://drive.google.com/open?id=1s6sgxDpK02jgdY_dfPL-JEoHkklOqBmC) | [Paper 1B](https://drive.google.com/open?id=1gZhO0yOE_4s1skDlMvQ2QDLXcoTm6PnF) | 2019 | 2019 | 2019 | 2019 | 2019 | 2019 | 2019 |
 
 | 2016 | 2017 | 2018 | 2019 | 2020 |
 | :--- | :--- | :--- | :--- | :--- |
