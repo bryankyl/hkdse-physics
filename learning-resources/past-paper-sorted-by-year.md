@@ -2,7 +2,7 @@
 
 | P1A | P1B | P2 | Marking | Joint-us 1A | Joint-us 1B | Joint-us 2 | Cand. Perf. | Teacher's Briefing |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [Paper 1A](https://drive.google.com/open?id=1s6sgxDpK02jgdY_dfPL-JEoHkklOqBmC) | [Paper 1B](https://drive.google.com/open?id=1gZhO0yOE_4s1skDlMvQ2QDLXcoTm6PnF) | 2019 | 2019 | 2019 | 2019 | 2019 | 2019 | 2019 |
+| [2019](https://drive.google.com/open?id=1s6sgxDpK02jgdY_dfPL-JEoHkklOqBmC) | [2019](https://drive.google.com/open?id=1gZhO0yOE_4s1skDlMvQ2QDLXcoTm6PnF) | [2019](https://drive.google.com/open?id=1Rc16Xw-BIJLHvlqv5a4jwNFH_NnDshN9) | 2019 | [2019](https://drive.google.com/open?id=1yj25XvsK7NLljXpGzccwgJvy9083Y87u) | [2019](https://drive.google.com/open?id=1XPgpRWPHyT-Id7DhCeoo-HFzE-sgZ9-o) | [2019](https://drive.google.com/open?id=1CR94zS2gjW40Ew8MCqD2n3FQ0p9B9pSR) | 2019 | [2019](https://drive.google.com/open?id=17zFj8BTNBCGhgA0nRyd0L55VfNSCaAay) |
 
 | 2016 | 2017 | 2018 | 2019 | 2020 |
 | :--- | :--- | :--- | :--- | :--- |
