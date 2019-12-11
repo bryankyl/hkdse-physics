@@ -125,7 +125,7 @@
 |  | [Teachers' Briefing](https://drive.google.com/open?id=0B08G5K3LNAX6a0h2TWVJWjJfUW8) | [Teachers' Briefing](https://drive.google.com/open?id=0B08G5K3LNAX6aS1LQ0doMFhYaGM) | [Teachers' Briefing](https://drive.google.com/open?id=0B08G5K3LNAX6ODRmMW9sc3VuY3c) | [Teachers' Briefing](https://drive.google.com/open?id=0B08G5K3LNAX6YV9WdU5oNnN3MlE) |
 
 | Sample Paper | Practice Paper |  |  |  |
-| :--- | :--- | :--- | :--- | :--- |
+| :---: | :---: | :--- | :--- | :--- |
 | [Paper 1A](https://drive.google.com/open?id=0B08G5K3LNAX6TkI4cjhzM0dRWFU) | [Paper 1A](https://drive.google.com/open?id=0B08G5K3LNAX6azVDSmRvMURpb0E) |  |  |  |
 | [Paper 1B](https://drive.google.com/open?id=0B08G5K3LNAX6Q2JYMU9RQjdST0k) | [Paper 1B](https://drive.google.com/open?id=0B08G5K3LNAX6VGlla3FxU3lxRUk) |  |  |  |
 | [Paper 2](https://drive.google.com/open?id=0B08G5K3LNAX6WmlhcnZVQWlmRDg) | [Paper 2](https://drive.google.com/open?id=0B08G5K3LNAX6QjhIcF8yM2JreTg) |  |  |  |

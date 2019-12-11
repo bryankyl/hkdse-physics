@@ -153,4 +153,6 @@
 ## Learning Resources
 
 * [HKDSE Past Paper \(Sorted by Year\)](learning-resources/past-paper-sorted-by-year.md)
+* [HKCEE Past Paper \(Sorted by Year\)](learning-resources/hkcee-past-paper-sorted-by-year.md)
+* [HKALE Past Paper \(Sorted by Year\)](learning-resources/hkale-past-paper-sorted-by-year.md)
 
