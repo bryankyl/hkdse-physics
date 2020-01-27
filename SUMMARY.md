@@ -107,6 +107,7 @@
 * [E1 Astronomy and Space Science](brief-notes/e1-astronomy-and-space-science-1/README.md)
   * [E1.04 Stars and the Universe](brief-notes/e1-astronomy-and-space-science-1/e1.04-stars-and-the-universe/README.md)
     * [01 Method of Parallax](brief-notes/e1-astronomy-and-space-science-1/e1.04-stars-and-the-universe/01-method-of-parallax.md)
+    * [01 視差法](brief-notes/e1-astronomy-and-space-science-1/e1.04-stars-and-the-universe/01-shi-cha-fa.md)
     * [02 Measure the Distance of Stars by Method of Parallax](brief-notes/e1-astronomy-and-space-science-1/e1.04-stars-and-the-universe/02-measure-the-distance-of-stars-by-method-of-parallax.md)
     * [03 Parsec](brief-notes/e1-astronomy-and-space-science-1/e1.04-stars-and-the-universe/03-parsec.md)
     * [04 Brightness of Stars: Luminosity and Intensity](brief-notes/e1-astronomy-and-space-science-1/e1.04-stars-and-the-universe/04-brightness-of-stars-luminosity-and-intensity.md)
