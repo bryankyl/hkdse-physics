@@ -28,7 +28,7 @@ description: 以下簡要講述視差法現象、原理及日常生活中應用�
 **視差現象在日常生活的應用：**
 
 1. 人眼視覺對景物深度的感覺 由於視差現象，當我們注視一件物體時，左眼和右眼會產生不同的畫面影像。 當左眼和右眼接收的畫面同時傳送到腦部再分析後，會綜合出呈現立體和景深的畫面。 從深度中可以大概得知物體和人眼之間的距離。
-2. 3-Dimensional Camera The conventional photo image and TV programme provides us ONE flat screen for our TWO eyes. If two image-capturing devices are aligned side-by-side. It can generate two particular views at the same time, just like our left and right eyes. By using an Virtual Reality player or 3-D TV, static image and motion videos with **depth of view** can be played and enjoyed by the audience.
+2. 立體照相機 傳統相片及動態影像The conventional photo image and TV programme provides us ONE flat screen for our TWO eyes. If two image-capturing devices are aligned side-by-side. It can generate two particular views at the same time, just like our left and right eyes. By using an Virtual Reality player or 3-D TV, static image and motion videos with **depth of view** can be played and enjoyed by the audience.
 
 ![3-D Camera](../../../.gitbook/assets/image%20%289%29.png)
 

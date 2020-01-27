@@ -24,7 +24,7 @@ Parallax can be used to measure the distance of a star away from the the solar s
 **Application of Parallax:**
 
 1. Human Perception of Depth When we observe an object, our left eye and right eye produce different views due to parallax. By interpreting both views by human brain, a perception of 3-dimension and **depth of view** can be obtained. We can barely feel the distance of the object apart from us.
-2. 3-Dimensional Camera The conventional photo image and TV programme provides us ONE flat screen for our TWO eyes. If two image-capturing devices are aligned side-by-side. It can generate two particular views at the same time, just like our left and right eyes. By using an Virtual Reality player or 3-D TV, static image and motion videos with **depth of view** can be played and enjoyed by the audience.
+2. 3-Dimensional Camera The conventional photo image and videoss provides us ONE flat screen for our TWO eyes. If two image-capturing devices are aligned side-by-side. It can generate two particular views at the same time, just like our left and right eyes. By using an Virtual Reality player or 3-D TV, static image and motion videos with **depth of view** can be played and enjoyed by the audience.
 
 ![3-D Camera](../../../.gitbook/assets/image%20%289%29.png)
 
