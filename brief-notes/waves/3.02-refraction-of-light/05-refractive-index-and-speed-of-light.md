@@ -1,2 +1,2 @@
-# 05 Refractive Index and Speed of Light
+# 06 Refractive Index and Speed of Light
 
