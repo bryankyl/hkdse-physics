@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Untitled](README.md)
+* [天文](README.md)
 
 ## Brief Notes
 
@@ -193,4 +193,10 @@
 * [HKDSE Past Paper \(Sorted by Year\)](learning-resources/past-paper-sorted-by-year.md)
 * [HKCEE Past Paper \(Sorted by Year\)](learning-resources/hkcee-past-paper-sorted-by-year.md)
 * [HKALE Past Paper \(Sorted by Year\)](learning-resources/hkale-past-paper-sorted-by-year.md)
+
+---
+
+* [科技](ke-ji.md)
+* [天文宇宙](tian-wen-yu-zhou.md)
+* [土木工程](tu-mu-gong-cheng.md)
 
