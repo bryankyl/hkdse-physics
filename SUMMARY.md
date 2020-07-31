@@ -196,7 +196,16 @@
 
 ---
 
-* [科技](ke-ji.md)
 * [天文宇宙](tian-wen-yu-zhou.md)
 * [土木工程](tu-mu-gong-cheng.md)
+* [格物期刊](ge-wu-qi-kan/README.md)
+  * [2020年9月號](ge-wu-qi-kan/2020-nian-9-yue-hao/README.md)
+    * [格物、究理、致知](ge-wu-qi-kan/2020-nian-9-yue-hao/ge-wu-jiu-li-zhi-zhi.md)
+    * [5G科技](ge-wu-qi-kan/2020-nian-9-yue-hao/ke-ji.md)
+    * [日偏食](ge-wu-qi-kan/2020-nian-9-yue-hao/ri-pian-shi.md)
+    * [Neowise彗星](ge-wu-qi-kan/2020-nian-9-yue-hao/neowise-hui-xing.md)
+    * [重力波簡介](ge-wu-qi-kan/2020-nian-9-yue-hao/zhong-li-bo-jian-jie.md)
+  * [2020年12月號](ge-wu-qi-kan/2020-nian-12-yue-hao.md)
+  * [2021年3月號](ge-wu-qi-kan/2021-nian-3-yue-hao.md)
+  * [2021年6月號](ge-wu-qi-kan/2021-nian-6-yue-hao.md)
 
