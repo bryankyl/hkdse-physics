@@ -208,4 +208,5 @@
   * [2020年12月號](ge-wu-qi-kan/2020-nian-12-yue-hao.md)
   * [2021年3月號](ge-wu-qi-kan/2021-nian-3-yue-hao.md)
   * [2021年6月號](ge-wu-qi-kan/2021-nian-6-yue-hao.md)
+* [Exam from Other Countries](exam-from-other-countries.md)
 
